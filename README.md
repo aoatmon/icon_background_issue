@@ -10,3 +10,5 @@ observe inconsistent icon background
 - in pubspec `#000000`
 - in launcher `#ffffff`
 - minimized "blue"
+
+follow [issue](https://github.com/fluttercommunity/flutter_launcher_icons/issues/306)
