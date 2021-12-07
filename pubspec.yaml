@@ -19,3 +19,9 @@ flutter:
   uses-material-design: true
   assets:
     - images/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: images/dash.png
+  remove_alpha_ios: true
