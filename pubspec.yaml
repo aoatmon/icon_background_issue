@@ -23,3 +23,4 @@ flutter:
 flutter_icons:
   android: true
   image_path: images/dash.png
+  adaptive_icon_background: '#000000'
